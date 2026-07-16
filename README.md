@@ -251,14 +251,3 @@ The Incredible Hulk
 
 ---
 
-## 👨‍💻 Author
-
-**Anjali Sharma**
-
-Python Developer | Machine Learning Enthusiast
-
----
-
-## 📄 License
-
-This project is developed for educational and learning purposes.
